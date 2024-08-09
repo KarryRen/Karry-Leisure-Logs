@@ -1,5 +1,6 @@
 # useless Mac file
 .DS_Store
+.mp4
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
